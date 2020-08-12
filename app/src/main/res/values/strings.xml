@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="text">Ничего не выбрано</string>
+
+    <string-array name="cities">
+        <item>Выберите город</item>
+        <item>Bishkek</item>
+        <item>Tokyo</item>
+        <item>Kioto</item>
+        <item>Osaka</item>
+        <item>Seoul</item>
+        <item>Pusan</item>
+        <item>Beijing</item>
+        <item>Hong Kong</item>
+        <item>Shanghai</item>
+        <item>Nanjing</item>
+    </string-array>
+
+</resources>
